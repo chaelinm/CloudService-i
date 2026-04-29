@@ -2,3 +2,9 @@
 중간고사 해설
 10주차 코엑스 수업
 금일 수업 오리엔테이션 : 브랜치(협업 필수 기능)
+git branch 브랜치이름(ai backend ....)
+git switch  "
+git 파일 생성하고 커밋
+main branch (git switch main)로 돌아와서 git merge (다른 브랜치)
+오류나면 esc 누르고 :wq!
+화면 돌아오면 git push
