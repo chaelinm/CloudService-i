@@ -8,3 +8,4 @@ git 파일 생성하고 커밋
 main branch (git switch main)로 돌아와서 git merge (다른 브랜치)
 오류나면 esc 누르고 :wq!
 화면 돌아오면 git push
+rm 파일 삭제 명령어
