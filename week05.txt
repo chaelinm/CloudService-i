@@ -21,4 +21,4 @@ vi에디터 화면이 나오면 j(아래), k(위), q(편집화면 탈출)
 
 업로드 git push
 오류발생? (새로 만든 깃 리모트 리포지토리 주소와 바인딩 필요)
-업로드 git push -u origin main
+업로드 git push -u origin main (처음 올릴 때)
