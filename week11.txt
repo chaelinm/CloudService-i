@@ -1,3 +1,12 @@
 1교시
 10주차 복습
 
+vi 에디터
+u(되돌리기)
+
+명령어
+ipconfig
+ping ip주소 또는 url 주소
+ping -t ip 주소 또는 url 주소
+
+2교시
